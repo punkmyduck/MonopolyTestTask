@@ -3,7 +3,9 @@
 ## Описание программы
 Программа написана на C# с использованием WindowsForms.
 
-[Путь в папку программы](MonopolyWarehouse/).
+[Релиз-версия к запуску](https://github.com/punkmyduck/MonopolyTestTask/releases/tag/TestTask)
+
+[Путь в папку с исходным кодом программы](MonopolyWarehouse/).
 
 ### Объекты склада
 Основные классы, описанные в программе:
